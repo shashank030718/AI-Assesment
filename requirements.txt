@@ -1,25 +1,13 @@
-# Core Backend
-fastapi--0.115.11
-uvicorn--0.30.6
+fastapi
+uvicorn
+streamlit
+yfinance
+yahoo_fin
+SpeechRecognition
+pyttsx3
+openai
+sentence-transformers
+faiss-cpu
+requests
+python-dotenv
 
-# Streamlit Frontend
-streamlit--1.45.1
-
-# Market Data APIs
-yfinance--0.2.61
-yahoo_fin--0.8.9.1
-
-# Speech Recognition and TTS
-SpeechRecognition--3.10.0
-pyttsx3--2.98
-
-# AI & NLP
-openai--1.82.0
-sentence-transformers--3.4.1
-faiss-cpu--1.7.4
-
-# Web Requests
-requests--2.31.0
-
-# Utilities
-python-dotenv--1.0.0
