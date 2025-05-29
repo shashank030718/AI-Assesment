@@ -10,7 +10,7 @@ yfinance--0.2.61
 yahoo_fin--0.8.9.1
 
 # Speech Recognition and TTS
-SpeechRecognition-- 3.14.3
+SpeechRecognition--3.10.0
 pyttsx3--2.98
 
 # AI & NLP
